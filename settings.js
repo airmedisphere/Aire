@@ -8,7 +8,7 @@ module.exports = {
     bot_api_key: process.env.BOT_API_KEY || "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 
     // JioSaavn API URL from env or fallback
-    jiosaavn_api_url: process.env.JIOSAAVN_API_URL || "https://jiosaavn-api.vercel.app/",
+    jiosaavn_api_url: process.env.JIOSAAVN_API_URL || "https://airsongsapi.vercel.app/",
 
     // Musicder API URL from env or fallback
     musicder_url: process.env.MUSICDER_URL || "https://musicder.net/",
